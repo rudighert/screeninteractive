@@ -1,0 +1,5 @@
+@import "application/base";
+
+body{
+  @include font_family(RobotoNewRegular);
+}

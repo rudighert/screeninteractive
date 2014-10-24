@@ -1,0 +1,3 @@
+@mixin font_family($font){
+  font-family:  $font, "Helvetica Neue", Helvetica, 'lucida grande', tahoma, verdana, arial, sans-serif;
+}

@@ -1,0 +1,5 @@
+@import 'compass';
+
+@include font-face("RobotoNewRegular",          font-files("Roboto/Roboto-Regular.ttf"));
+@include font-face("RobotoNewBold",             font-files("Roboto/Roboto-Bold.ttf"));
+@include font-face("RobotoNewThin",             font-files("Roboto/Roboto-Thin.ttf"));
