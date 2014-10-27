@@ -1,6 +1,5 @@
 ScreenInteractive::Application.routes.draw do
- resources :screen_show
-
-
- root :to => 'screen_show#index'
+ resources :screens
+ resources :players
+ root :to => 'screens#index'
 end

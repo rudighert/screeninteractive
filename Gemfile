@@ -30,4 +30,7 @@ gem 'jquery-rails'
 # gem
 gem "pubnub", "~> 3.3.0.7"
 
+# Engine that quickly shows the routes available
+gem "sextant"
+
 

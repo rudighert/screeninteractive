@@ -1,0 +1,13 @@
+production:
+  publish_key: 'pub-c-5561c680-f96a-45e2-9e6c-6331dedd34b9'
+  subscribe_key: "sub-c-dffa58a8-5b8d-11e4-a5f1-02ee2ddab7fe"
+  secret_key: "sec-c-NTI3NDE1YjEtMjU3ZC00N2ZkLWFjMTgtNGEwYzFlNGE2Yjkx"
+  cipher_key: ""
+  ssl_on: 'false'
+
+development:
+  publish_key: 'pub-c-5561c680-f96a-45e2-9e6c-6331dedd34b9'
+  subscribe_key: "sub-c-dffa58a8-5b8d-11e4-a5f1-02ee2ddab7fe"
+  secret_key: "sec-c-NTI3NDE1YjEtMjU3ZC00N2ZkLWFjMTgtNGEwYzFlNGE2Yjkx"
+  cipher_key: ""
+  ssl_on: 'false'
